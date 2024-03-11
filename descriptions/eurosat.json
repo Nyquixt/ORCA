@@ -1,0 +1,122 @@
+{
+    "annual crop": [
+        "regularly cultivated agricultural land",
+        "distinct rows or patterns of crops",
+        "seasonal changes in crop type and color",
+        "man-made irrigation systems",
+        "plowed and tilled soil",
+        "agricultural machinery and equipment",
+        "crop diversity (corn, wheat, etc.)",
+        "harvested fields at certain times of the year",
+        "fenced or bordered crop areas",
+        "geometric and organized planting"
+    ],
+    "forest": [
+        "lush and densely wooded areas",
+        "tall trees with canopies",
+        "abundant green foliage",
+        "variety of tree species (oak, pine, etc.)",
+        "natural and organic growth patterns",
+        "sunlight filtering through tree branches",
+        "rich biodiversity and wildlife habitat",
+        "forest floor with undergrowth and fallen leaves",
+        "seasonal changes in foliage colors",
+        "scenic and serene natural landscapes"
+    ],
+    "herbaceous vegetation": [
+        "non-woody and green plant cover",
+        "grassy and ground-level vegetation",
+        "wildflowers and meadows",
+        "herbaceous plants and shrubs",
+        "variety of plant species (grasses, clover, etc.)",
+        "green and leafy appearance",
+        "open and non-forested areas",
+        "seasonal changes in plant growth",
+        "habitat for insects and small animals",
+        "often found in grasslands and meadows"
+    ],
+    "highway": [
+        "paved roadways and transportation corridors",
+        "markings and lanes for traffic",
+        "bridges, overpasses, and intersections",
+        "vehicle traffic and movement patterns",
+        "surrounding urban or rural landscapes",
+        "streetlights and road signs",
+        "on-ramps and off-ramps",
+        "different types of vehicles (cars, trucks, etc.)",
+        "regularly maintained and paved surfaces",
+        "efficient transportation networks"
+    ],
+    "industrial buildings": [
+        "man-made structures for manufacturing",
+        "large and often boxy or rectangular shapes",
+        "industrial equipment and machinery",
+        "smokestacks and ventilation systems",
+        "warehouse facilities and storage areas",
+        "access roads and loading docks",
+        "regular human activity and movement",
+        "surrounded by paved areas or parking lots",
+        "often found in industrial zones",
+        "functional and utilitarian design"
+    ],
+    "pasture": [
+        "open land used for grazing livestock",
+        "grassy terrain for animal foraging",
+        "fenced or bordered grazing areas",
+        "cattle, sheep, or other grazing animals",
+        "water sources such as ponds or troughs",
+        "livestock movement and herding",
+        "sustainable agricultural practices",
+        "presence of farm buildings or barns",
+        "man-made structures for animal shelter",
+        "rural and agricultural landscapes"
+    ],
+    "permanent crop": [
+        "permanently planted agricultural land",
+        "orchards, vineyards, or similar crops",
+        "distinctive patterns of planted rows",
+        "year-round cultivation and maintenance",
+        "regularly spaced trees or vines",
+        "harvesting at specific times of the year",
+        "man-made irrigation systems",
+        "use of trellises or support structures",
+        "variety of permanent crop types (grapes, citrus, etc.)",
+        "agricultural practices for long-term yield"
+    ],
+    "residential buildings": [
+        "urban and suburban housing areas",
+        "clustered or spaced residential structures",
+        "diverse architectural styles and designs",
+        "man-made streets and roads",
+        "presence of driveways and garages",
+        "landscaped yards and gardens",
+        "regular human activity and movement",
+        "variety of housing types (houses, apartments, etc.)",
+        "roofs and building materials",
+        "community and neighborhood environments"
+    ],
+    "river": [
+        "flowing bodies of freshwater",
+        "meandering or straight river courses",
+        "banks and riparian vegetation",
+        "water movement and currents",
+        "bridges and crossings over rivers",
+        "boating and water recreational activities",
+        "flora and fauna along riverbanks",
+        "seasonal changes in water levels",
+        "water quality and clarity",
+        "natural and dynamic aquatic ecosystems"
+    ],
+    "sea or lake": [
+        "expansive bodies of saltwater (sea) or freshwater (lake)",
+        "vast water horizons and shorelines",
+        "coastlines with sandy or rocky features",
+        "tidal and wave patterns (in seas)",
+        "aquatic wildlife and marine habitats",
+        "recreational activities (swimming, boating, etc.)",
+        "docks, piers, and marinas (in seas)",
+        "different shades of blue or green water",
+        "sunlight reflecting off water surfaces",
+        "scenic and calming natural landscapes"
+    ]
+}
